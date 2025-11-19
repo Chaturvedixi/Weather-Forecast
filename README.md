@@ -237,18 +237,3 @@ WeatherViewModel logic
 
 Localize strings for multiple languages.
 
-yaml
-Copy code
-
----
-
-## 2️⃣ Push to GitHub (short steps)
-
-1. Create a repo on GitHub (e.g. `weather-forecast-ios`).
-2. In your project folder:
-   ```bash
-   git init
-   git remote add origin https://github.com/<your-username>/weather-forecast-ios.git
-   git add .
-   git commit -m "Initial commit - Weather Forecast app"
-   git push -u origin main
