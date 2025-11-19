@@ -1,0 +1,11 @@
+//
+//  Config.xcconfig
+//  Weather Forecast
+//
+//  Created by Anubhav Chaturvedi on 18/11/25.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://developer.apple.com/documentation/xcode/adding-a-build-configuration-file-to-your-project
+
+API_KEY = 12b20ca73bc04a3f97a122821251811
